@@ -1,0 +1,59 @@
+[
+    {
+        "definitions" : [
+            {
+                "column" : 8,
+                "file" : "C:/Users/Valentin/Documents/GitHub/ev.trawl.cpp/src/cpp_core_utils.cpp",
+                "kind" : 6,
+                "line" : 11,
+                "name" : "CppCaseZeroZero(double, double, double, double, double, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@CppCaseZeroZero#d#d#d#d#d#d#"
+            },
+            {
+                "column" : 8,
+                "file" : "C:/Users/Valentin/Documents/GitHub/ev.trawl.cpp/src/cpp_core_utils.cpp",
+                "kind" : 6,
+                "line" : 21,
+                "name" : "CppCaseOneZero(NumericVector, double, double, double, double, double, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@CppCaseOneZero#$@N@Rcpp@C@Vector>#VI14#@N@Rcpp@CT>1#T@PreserveStorage#d#d#d#d#d#d#"
+            },
+            {
+                "column" : 8,
+                "file" : "C:/Users/Valentin/Documents/GitHub/ev.trawl.cpp/src/cpp_core_utils.cpp",
+                "kind" : 6,
+                "line" : 39,
+                "name" : "CppCaseOneOne(NumericVector, double, double, double, double, double, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@CppCaseOneOne#$@N@Rcpp@C@Vector>#VI14#@N@Rcpp@CT>1#T@PreserveStorage#d#d#d#d#d#d#"
+            },
+            {
+                "column" : 8,
+                "file" : "C:/Users/Valentin/Documents/GitHub/ev.trawl.cpp/src/cpp_core_utils.cpp",
+                "kind" : 6,
+                "line" : 52,
+                "name" : "CppCaseSeparator(NumericVector, double, double, double, double, double, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@CppCaseSeparator#$@N@Rcpp@C@Vector>#VI14#@N@Rcpp@CT>1#T@PreserveStorage#d#d#d#d#d#d#"
+            }
+        ],
+        "file" : "C:/Users/Valentin/Documents/GitHub/ev.trawl.cpp/src/cpp_core_utils.cpp",
+        "file_last_write" : 1568364036
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "C:/Users/Valentin/Documents/GitHub/ev.trawl.cpp/src/rcpp_hello_world.cpp",
+                "kind" : 6,
+                "line" : 6,
+                "name" : "rcpp_hello_world",
+                "parent_name" : "",
+                "usr" : "c:@F@rcpp_hello_world#"
+            }
+        ],
+        "file" : "C:/Users/Valentin/Documents/GitHub/ev.trawl.cpp/src/rcpp_hello_world.cpp",
+        "file_last_write" : 1568363481
+    }
+]

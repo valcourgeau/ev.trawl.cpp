@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568377730731.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3237203296",
+    "id" : "CEE779C2",
+    "lastKnownWriteTime" : 1568377744,
+    "last_content_update" : 1568377744718,
+    "path" : "~/GitHub/ev.trawl.cpp/.Renviron",
+    "project_path" : ".Renviron",
+    "properties" : {
+        "cursorPosition" : "0,15",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "sh"
+}

@@ -1,0 +1,3 @@
+useDynLib(ev.trawl.cpp, .registration=TRUE)
+exportPattern("^[[:alpha:]]+")
+importFrom(Rcpp, evalCpp)
